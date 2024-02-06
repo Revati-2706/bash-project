@@ -1,4 +1,5 @@
 #!/bin/bash
+#$Revision :001$
 
 read -p "do you wnat to update your system right a way ? Y/n" choice 
 
