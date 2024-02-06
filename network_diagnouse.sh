@@ -1,4 +1,6 @@
 #!/bin/bash
+#$Revision :001$
+
 
 ping -c 3 www.google.com 8.8.8.8
 
