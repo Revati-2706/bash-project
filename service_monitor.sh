@@ -1,4 +1,5 @@
 #!/bin/bash
+#$Revision :001$
 
 read -p "which service status do you want to know " name
 
